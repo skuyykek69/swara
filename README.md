@@ -2,7 +2,7 @@
 Web Bucin V3 khusus buat orang tercinta &amp; tersayang.
 
 # Demo Site
- <a href="https://skuyykek69.github.io/swara/">https://wafarifki.github.io/WebBucin-V3/</a>
+ <a href="https://skuyykek69.github.io/swara/">https://skuyykek69.github.io/swara/</a>
 
 # List Repo Web Bucin
 - <a target="_blank" href="https://github.com/wafarifki/WebBucin-V1">https://github.com/wafarifki/WebBucin-V1</a>
